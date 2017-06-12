@@ -1,0 +1,5 @@
+---
+classes:
+  - motd
+motd::username: default
+motd::location: default-India
