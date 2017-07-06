@@ -1,0 +1,11 @@
+---
+classes:
+  - motd
+  - ntp
+  - java
+  - file1
+  - tempexm
+  - phpmysql
+motd::username: Agent-007
+motd::location: India
+tempexm::named: Virat Kohli
