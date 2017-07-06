@@ -17,6 +17,7 @@ In which i have written COOKBOOKS like <br />
 	* [variables](https://github.com/saikrishna4293/All-My-Work/blob/master/chef-works/cookbooks/variables/attributes/default.rb) - includes all the variables of motd, templates2 <br />
  <br />
 Used and Modified cookbooks from supermarket like<br />
+	* [chef-client](https://github.com/saikrishna4293/All-My-Work/tree/master/chef-works/cookbooks/chef-client) - modified form 30 mins to 20 mins of timely running of convergence. This involves some dependencies [windows](https://github.com/saikrishna4293/All-My-Work/tree/master/chef-works/cookbooks/windows), [logrotate](https://github.com/saikrishna4293/All-My-Work/tree/master/chef-works/cookbooks/logrotate), [cron](https://github.com/saikrishna4293/All-My-Work/tree/master/chef-works/cookbooks/cron).
 	* [postgresql](https://github.com/saikrishna4293/All-My-Work/tree/master/chef-works/cookbooks/postgresql) - Installs and configures postgresql for clients or servers<br />
 	* [java](https://github.com/saikrishna4293/All-My-Work/tree/master/chef-works/cookbooks/java) - includes dependency cookbooks like homebrew, windows, apt<br />
 	* [ohai](https://github.com/saikrishna4293/All-My-Work/tree/master/chef-works/cookbooks/ohai) - Provides custom resources for installing Ohai hints and plugins<br />
